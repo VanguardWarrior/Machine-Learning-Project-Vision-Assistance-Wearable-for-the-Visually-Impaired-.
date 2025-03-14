@@ -1,0 +1,2 @@
+# Machine-Learning-Project-Vision-Assistance-Wearable-for-the-Visually-Impaired-.
+Designed a wearable assistive device using Raspberry Pi 5 and Camera Module 3 to support visually impaired users. Integrated real-time obstacle detection (using edge detection), object recognition (YOLO), text reading assistance (PyTesseract), and auditory guidance (pyttsx3) to enhance safe and independent navigation
